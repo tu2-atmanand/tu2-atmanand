@@ -6,8 +6,18 @@
 
 [![tu2-atmanand's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu2-atmanand&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![tu2-atmanand's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu2-atmanand&layout=compact&hide=issues&show_icons=true&theme=dark&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![tu2-atmanands's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tu2-atmanand&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> -->
 
 
 
