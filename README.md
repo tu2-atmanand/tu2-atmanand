@@ -6,7 +6,7 @@
 <p align="left"> 
 <a href="https://www.linkedin.com/in/atmanand-gauns-32017520b/"><img src="https://img.shields.io/badge/-Atmanand%20Gauns-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="https://twitter.com/AtmanandGauns" target="blank"><img src="https://img.shields.io/twitter/follow/AtmanandGauns?logo=twitter&style=for-the-badge" alt="Harikrushn9" /></a>&nbsp
-<a href="https://tu2-atmanand.github.io/MyPortfolioWebsite/" target="_blank"><img src="https://img.shields.io/website?label=tu2-atmanand.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Ftu2-atmanand.github.io" alt="https://tu2-atmanand.github.io/MyPortfolioWebsite/" /></a>&nbsp
+<a href="https://tu2-atmanand.github.io/#/home" target="_blank"><img src="https://img.shields.io/website?label=tu2-atmanand.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Ftu2-atmanand.github.io" alt="https://tu2-atmanand.github.io/MyPortfolioWebsite/" /></a>&nbsp
    <a href="mailto:sanketgauns8@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sanketgauns8@gmail.com" />
   </a>
