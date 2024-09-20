@@ -12,10 +12,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on a c++ voice automation project 
-- 🌱 I’m currently learning Data Structures and Algorithms and python
+- 🔭 I’m currently working on a c++ voice automation project
+- 🌱 I’m currently learning Data Structures and Algorithms and JAVA programming language.
 - 📫 How to reach me: [twitter](https://twitter.com/AtmanandGauns)
-- ⚡ Fun fact: I like to read physics books and interested in astronomy, black holes etc. Also like the technologies such as nanotechnology and nanoelectronics.
+- ⚡ Fun fact: I like to read physics books on particle physics, astronomy, black holes etc. Also like the technologies such as nanotechnology and nanoelectronics.
 
 ## 🌐 Languages and Tools :
 <p align="left">
