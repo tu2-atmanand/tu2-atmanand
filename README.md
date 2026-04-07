@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on a c++ voice automation project
 - 🌱 I’m currently learning Data Structures and Algorithms and JAVA programming language.
-- 📫 How to reach me: [twitter](https://twitter.com/AtmanandGauns)
+- 📫 How to reach me: [Discord - tu2_9451](https://discord.com/users/778287738604355664).
 - ⚡ Fun fact: I like to read physics books on particle physics, astronomy, black holes etc. Also like the technologies such as nanotechnology and nanoelectronics.
 
 ## 🌐 Languages and Tools :
